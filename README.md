@@ -4,7 +4,8 @@
 
 ## Live Demo
 
-Check out the live demo of Meetify here:   [Meetify Live Demo]([https://meetify-zoom-clone.vercel.app/])
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Meetify-blue?style=for-the-badge)](https://meetify-zoom-clone.vercel.app/)
+
 
 ## Overview
 A **MERN Stack Video Conferencing App** that provides:
