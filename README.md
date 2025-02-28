@@ -2,9 +2,7 @@
 
 # MERN Stack Video Conferencing App
 
-## Live Demo
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Meetify-blue?style=for-the-badge)](https://meetify-zoom-clone.vercel.app/)
+## Live Demo -  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Meetify-blue?style=for-the-badge)](https://meetify-zoom-clone.vercel.app/)
 
 
 ## Overview
