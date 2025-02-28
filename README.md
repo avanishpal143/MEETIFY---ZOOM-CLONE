@@ -4,10 +4,7 @@
 
 ## Live Demo
 
-Check out the live demo of Meetify here:  
-[![Deploy with Vercel](https://vercel.com/button)]([https://your-project-name.vercel.app](https://meetify-zoom-clone.vercel.app/))
-
-Or visit directly: [Meetify Live Demo]([https://your-project-name.vercel.app](https://meetify-zoom-clone.vercel.app/))
+Check out the live demo of Meetify here:   [Meetify Live Demo]([[https://your-project-name.vercel.app](https://meetify-zoom-clone.vercel.app/)])
 
 ## Overview
 A **MERN Stack Video Conferencing App** that provides:
